@@ -2,6 +2,11 @@
     background: rgb(17, 0, 0);
 }
 
-#styles {
+#thoughtbot {
+    color: white;
+    font-size: 40px;
+}
+.styles {
+    font-size: 50px;
     color: white;
 }
