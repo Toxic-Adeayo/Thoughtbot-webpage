@@ -1,0 +1,139 @@
+.font {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.thoughtbot {
+    color: rgb(252, 212, 153);
+}
+
+.main {
+    font-size: 50px;
+}
+
+* {
+    background: #201313;
+}
+
+body {
+    color: white;
+    font-size: 20px;
+}
+
+.head {
+    color: white;
+}
+
+.blog {
+    color: #f1a833;
+}
+
+.all {
+    color: #201313;
+    background-color: #FFA519;
+    padding: 10px 18px;
+    height: fit-content;
+    width: 50;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.ddp {
+    color: white;
+    background-color: #201313;
+    height: fit-content;
+    width: 50;
+    padding: 9px 20px;
+    border-radius: 20px;
+}
+
+
+.red {
+    background-color: #CE2D2D;
+    padding: 12px 33px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+}
+
+.styles {
+    font-size: 32.94px;
+    color: white;
+    font-weight: 700;
+}
+
+.header {
+    font-size: 20.25px;
+    font-weight: 700;
+    color: white;
+}
+
+#margin {
+    margin: 1px 370px;
+}
+
+.written {
+    margin-top: 1px;
+    font-size: 26px;
+}
+
+.more {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    color: white;
+}
+
+.title {
+    font-size: 27px;
+}
+
+.text {
+    font-size: 17px;
+}
+
+.names {
+    font-size: 16px;
+    color: rgb(252, 212, 153);
+}
+
+.company {
+    font-size: 12px;
+    font-weight: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.signupbox {
+    color: white;
+    margin: 100px 200px;
+    border: #2F1C1C;
+    border-radius: 5px;
+    padding: 20px;
+    /* font-weight: normal;  */
+    background-color: #2F1C1C;
+    font-family: Cosmica (woff2) "Helvetica Neue" Helvetica Arial sans-serif;
+}
+
+.stayconnect {
+    margin: 100px 200px;
+    border-bottom: 2px solid #2F1C1C;
+    border-radius: 5px;
+    padding: 20px;
+    background: #201313;
+    font-style: italic;
+}
+/* EMAIL */
+.input-email {
+    border-bottom: 2px solid red;
+    background: #201313;
+    border-radius: 5px;
+    border-top: #201313;
+    border-left: #201313;
+    border-right: #201313;
+    padding: 10px 120px;
+    font-size: 1.1rem;
+    outline: none;
+}
